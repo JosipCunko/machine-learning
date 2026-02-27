@@ -3,3 +3,4 @@ fine_tuned_model/
 langchain/dataScience.pdf
 langchain/dataScience.docx
 langchain/chromavectorstore
+langgraph/langgraph.db
