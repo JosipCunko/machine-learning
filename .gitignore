@@ -4,3 +4,6 @@ langchain/dataScience.pdf
 langchain/dataScience.docx
 langchain/chromavectorstore
 langgraph/langgraph.db
+pinecone/configPinecone.py
+pinecone/.ipynb_checkpoints
+pinecone/__pycache__
