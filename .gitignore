@@ -7,3 +7,4 @@ langgraph/langgraph.db
 pinecone/configPinecone.py
 pinecone/.ipynb_checkpoints
 pinecone/__pycache__
+pinecone/*.csv
